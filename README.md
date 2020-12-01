@@ -62,6 +62,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 #Remover dado
 #  configProxy.remove(caminho);
+
+
 #Trocar dados
 #  configProxy.replcace(caminho, valor);
 # 	configProxy.replcace(caminho, valorAntigo, valorNovo);
