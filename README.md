@@ -1,6 +1,5 @@
 # ConfigProxy
  Config para proxy, uma api para facilitar a vida dos dosenvolvedores.
- Vamos la como funciona:
 <h1 align="center">
     <img alt="Pena" src="https://cdn.discordapp.com/attachments/782465411874684949/783336050399248404/Pena.png" />
     <br>
