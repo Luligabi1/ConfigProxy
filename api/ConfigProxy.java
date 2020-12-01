@@ -9,7 +9,7 @@ import java.util.Properties;
 
 import net.md_5.bungee.api.plugin.Plugin;
 
-public class ConfigBAN {
+public class ConfigProxy {
 	
 	public File file;
 	Plugin plugin;
@@ -18,7 +18,7 @@ public class ConfigBAN {
 	FileOutputStream fileOutputStream;
 	String comentario;
 	
-	public ConfigBAN(String nameDaConfig, Plugin plugin, String comentario) {
+	public ConfigProxy(String nameDaConfig, Plugin plugin, String comentario) {
 		comentario = this.comentario;
 		file = new File(plugin.getDataFolder(), nameDaConfig);
 		properties = new Properties();
