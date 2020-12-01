@@ -45,21 +45,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 # configProxy.save();
 # 
 # Verificação de boolean
-# if(configProxy.contains("caminho")) {
-#		//true
-#	}else {
-#		//false
-#	}
-# if(configProxy.containsKey("caminho")) {
-#		//true
-#	}else {
-#		//false
-#	}
-# if(configProxy.containsValue("caminho")) {
-#		//true
-#	}else {
-#		//false
-#	}
+# 
+#	if(configProxy.contains("dados")) {}else {}
+#	if(configProxy.containsKey("caminho")) {}else {}
+#	if(configProxy.containsValue("caminho")) {}else {}
 # 
 # 
 # Coletar dado especifico
