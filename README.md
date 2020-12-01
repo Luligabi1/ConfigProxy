@@ -29,6 +29,7 @@
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 -  [BungeeCord](https://www.spigotmc.org/wiki/bungeecord/)
+-  [WaterFall](https://papermc.io/downloads#Waterfall)
 
 ## :information_source: Como usar.
 ```bash
