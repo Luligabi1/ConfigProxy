@@ -33,44 +33,42 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :information_source: Como usar.
 ```bash
-# Adicione na class.java principal fora de metodos.
-# ConfigProxy configProxySeuNome;
-# 
-# 
-# Sempre nna inicialização do plugin tem que rodar este sistema primeiro ele carrega/constroi os arquivos.
-# configProxySeuNome = new ConfigProxy("config.yml", this, "Descricão ,_,!");
-# 
-# 
-# Metodo para salvar no arquivo.
-# configProxy.save();
-# 
-# Verificação de boolean
-# 
-#	if(configProxy.contains("dados")) {}else {}
-#	if(configProxy.containsKey("caminho")) {}else {}
-#	if(configProxy.containsValue("caminho")) {}else {}
-# 
-# 
-# Coletar dado especifico
-#	configProxy.get("caminho"); //object/string
-#	configProxy.getString("caminho"); //string
-# 
-# 
-# Setar um dado
-#	configProxy.set("caminho", "valor");
-# 
-# 
-# Remover dado
-# configProxy.remove(caminho);
-# 
-# 
-# Trocar dados
-# configProxy.replcace(caminho, valor);
-#	configProxy.replcace(caminho, valorAntigo, valorNovo);
-# 
-# 
-# Recarregar
-# configProxy.load();
+#Adicione na class.java principal fora de metodos.
+#  ConfigProxy configProxySeuNome;
+
+
+#Sempre nna inicialização do plugin tem que rodar este sistema primeiro ele carrega/constroi os arquivos.
+#  configProxySeuNome = new ConfigProxy("config.yml", this, "Descricão ,_,!");
+
+
+#Metodo para salvar no arquivo.
+#  configProxy.save();
+
+
+#Verificação de boolean
+#	 if(configProxy.contains("dados")) {}else {}
+#	 if(configProxy.containsKey("caminho")) {}else {}
+#	 if(configProxy.containsValue("caminho")) {}else {}
+
+
+#Coletar dado especifico
+# 	configProxy.get("caminho"); //object/string
+# 	configProxy.getString("caminho"); //strin
+
+
+#Setar um dado
+# 	configProxy.set("caminho", "valor");
+
+
+#Remover dado
+#  configProxy.remove(caminho);
+#Trocar dados
+#  configProxy.replcace(caminho, valor);
+# 	configProxy.replcace(caminho, valorAntigo, valorNovo);
+
+
+#Recarregar
+#  configProxy.load();
 ```
 
 ## :memo: Licença.
