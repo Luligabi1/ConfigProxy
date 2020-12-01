@@ -1,4 +1,3 @@
 # ConfigProxy
- Config para proxy, uma api para facilitar.
-www.googgle.com
-https://prnt.sc/vtj7qt
+ Config para proxy, uma api para facilitar a vida dos dosenvolvedores.
+ Vamos la como funciona:
