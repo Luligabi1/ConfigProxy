@@ -9,7 +9,7 @@ import java.util.Properties;
 
 import net.md_5.bungee.api.plugin.Plugin;
 
-public class ConfigProxy {
+public class ConfigBAN {
 	
 	public File file;
 	Plugin plugin;
@@ -59,13 +59,22 @@ public class ConfigProxy {
 		properties.replace(caminho,valor);
 	}
 	public boolean contains(String caminho) {
-		return properties.contains(caminho);
+		if(!properties.contains(caminho) == true) {
+			return true;
+		}
+		return false;
 	}
 	public boolean containsKey(String caminho) {
-		return properties.containsKey(caminho);
+		if(!properties.containsKey(caminho) == true) {
+			return true;
+		}
+		return false;
 	}
 	public boolean containsValue(String caminho) {
-		return properties.containsValue(caminho);
+		if(!properties.containsValue(caminho) == true) {
+			return true;
+		}
+		return false;
 	}
 	public void replcace(String caminho, String valorAntigo, String valorNovo) {
 		properties.replace(caminho, valorAntigo, valorNovo);
