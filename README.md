@@ -27,61 +27,34 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#teste1">teste 1</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#teste1">teste 1</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#teste1">teste 1</a>
 </p>
 
 <p align="center">
-  <img alt="App Demo" src="https://res.cloudinary.com/lukemorales/image/upload/v1563901304/readme_logos/designcode_screen_01_nxrabs.gif">
-  <img alt="App Demo" src="https://res.cloudinary.com/lukemorales/image/upload/v1563901538/readme_logos/designcode_screen_02_kuvvwt.gif">
+  <img alt="App Demo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMSBEVZCPXQ92Dtk_aHHrxxIUbssAjkJcfg&usqp=CAU">
+  <img alt="App Demo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMSBEVZCPXQ92Dtk_aHHrxxIUbssAjkJcfg&usqp=CAU">
 </p>
 
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
 
--  [Expo](https://expo.io/)
--  [React-Native](https://facebook.github.io/react-native/)
--  [React Native Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/)
--  [React Navigation](https://reactnavigation.org/)
--  [Redux](https://redux.js.org/)
--  [GraphQl](https://graphql.org/learn/)
--  [Apollo](https://www.apollographql.com/)
--  [styled-components](https://www.styled-components.com/)
--  [react-native-showdown](https://github.com/jerolimov/react-native-showdown)
--  [@expo/vector-icons](https://expo.github.io/vector-icons/)
--  [expo-linear-gradient](https://docs.expo.io/versions/latest/sdk/linear-gradient/)
--  [PropTypes](https://github.com/facebook/prop-types)
--  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+-  [teste](https://expo.io/)
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
+apis...
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/lukemorales/react-native-design-code designCode
-
-# Go into the repository
-$ cd designCode
-
-# Install dependencies
-$ yarn install
-
-# Run the app (iOS)
-$ yarn ios
-
-# Run the app (Android)
-$ yarn android
+# em breve
 ```
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE) for more information.
 
 ---
-
-Made with ♥ by Luke Morales :wave: [Get in touch!](https://www.linkedin.com/in/lukemorales/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
