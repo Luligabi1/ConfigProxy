@@ -38,4 +38,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :memo: Licença.
 This project is under the MIT license. See the [LICENSE](https://google.com) para mais innformações.
+
+---
+---
 ---
