@@ -22,12 +22,6 @@
 </p>
 
 <p align="center">
-  <a href="#teste1">teste 1</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#teste1">teste 1</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#teste1">teste 1</a>
-</p>
-
-<p align="center">
   <img alt="App Demo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMSBEVZCPXQ92Dtk_aHHrxxIUbssAjkJcfg&usqp=CAU">
   <img alt="App Demo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMSBEVZCPXQ92Dtk_aHHrxxIUbssAjkJcfg&usqp=CAU">
 </p>
