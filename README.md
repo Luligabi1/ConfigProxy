@@ -73,6 +73,13 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 #  configProxy.load();
 ```
 
+## :information_source: Observações/Problemas.
+```bash
+# Este sistema ele não e compativel com sistema que com ( . ) pula
+# Não serve para salvar multiplos dados nem ficar utilizando, apenas e um sistema com objetivo de coletar dados e criar uma ponte para sistemas de fora
+#   um exemplo e o MySQL
+```
+
 ## :memo: Licença.
 Este projeto está sob a licença do privada. Veja o [LICENÇA](https://google.com) para mais informações.
 
