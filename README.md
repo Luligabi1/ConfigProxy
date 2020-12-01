@@ -8,15 +8,16 @@
 </h1>
 
 <h4 align="center">
-  Teste
+  Gifs/imagens do sistema.
 </h4>
+
 <p align="center">
   <img alt="Linnguagens utilizadas" src="https://img.shields.io/github/languages/top/lukemorales/react-native-design-code.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukemorales/react-native-design-code.svg">
+  <img alt="total de linguagem" src="https://img.shields.io/github/languages/count/lukemorales/react-native-design-code.svg">
 
   <a href="https://google.com">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukemorales/react-native-design-code.svg">
+    <img alt="google" src="https://img.shields.io/github/license/lukemorales/react-native-design-code.svg">
   </a>
 </p>
 
