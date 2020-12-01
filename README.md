@@ -33,7 +33,21 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :information_source: Como usar.
 ```bash
-# em breve
+# Adicione na class.java principal fora de metodos.
+# 
+# public ConfigProxy configProxy;
+```
+
+```bash
+# Sempre nna inicialização do plugin tem que rodar este sistema primeiro ele carrega/constroi os arquivos.
+# 
+# configProxy = new ConfigProxy("config.yml", this, "Descricão ,_,!");
+```
+
+```bash
+# Asdasd
+# 
+# configProxy.save();
 ```
 
 ## :memo: Licença.
