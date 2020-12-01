@@ -13,7 +13,7 @@ public class ConfigProxy {
 	
 	public File file;
 	Plugin plugin;
-	Properties properties = new Properties();
+	Properties properties;
 	FileInputStream fileInputStream;
 	FileOutputStream fileOutputStream;
 	String comentario;
@@ -21,6 +21,7 @@ public class ConfigProxy {
 	public ConfigProxy(String nameDaConfig, Plugin plugin, String comentario) {
 		comentario = this.comentario;
 		file = new File(plugin.getDataFolder(), nameDaConfig);
+		properties = new Properties();
 		if(file.exists()) {
 			try {
 				fileInputStream = new FileInputStream(file);
