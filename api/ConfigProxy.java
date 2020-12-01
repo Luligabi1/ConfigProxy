@@ -18,7 +18,7 @@ public class ConfigProxy {
 	FileOutputStream fileOutputStream;
 	String comentario;
 	
-	public ConfigProxy(String nameDaConfig, Plugin plugin, String comentario) {
+	public ConfigBAN(String nameDaConfig, Plugin plugin, String comentario) {
 		comentario = this.comentario;
 		file = new File(plugin.getDataFolder(), nameDaConfig);
 		properties = new Properties();
@@ -40,6 +40,9 @@ public class ConfigProxy {
 	}
 	public void set(String caminho, String valor) {
 		properties.setProperty(caminho,valor);
+	}
+	public void set(String caminho, int i) {
+		properties.setProperty(caminho,""+i);
 	}
 	public void save(){
         try {
@@ -86,5 +89,8 @@ public class ConfigProxy {
 	}
 	public String getString(String caminho) {
 		return properties.getProperty(caminho);
+	}
+	public int getInt(String caminho) {
+		return Integer.parseInt(properties.getProperty(caminho));
 	}
 }
