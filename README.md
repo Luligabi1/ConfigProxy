@@ -26,21 +26,16 @@
   <img alt="App Demo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMSBEVZCPXQ92Dtk_aHHrxxIUbssAjkJcfg&usqp=CAU">
 </p>
 
-## :rocket: Technologies
+## :rocket: Tecnologia.
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-This project was developed with the following technologies:
+-  [BungeeCord](https://www.spigotmc.org/wiki/bungeecord/)
 
--  [teste](https://expo.io/)
-
-## :information_source: How To Use
-
-
-
+## :information_source: Como usar.
 ```bash
 # em breve
 ```
 
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE) for more information.
-
+## :memo: Licença.
+This project is under the MIT license. See the [LICENSE](https://google.com) para mais innformações.
 ---
