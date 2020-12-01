@@ -2,7 +2,7 @@
  Config para proxy, uma api para facilitar a vida dos dosenvolvedores.
  Vamos la como funciona:
 <h1 align="center">
-    <img alt="" src="https://cdn.discordapp.com/attachments/782465411874684949/783336050399248404/Pena.png" />
+    <img alt="Pena" src="https://cdn.discordapp.com/attachments/782465411874684949/783336050399248404/Pena.png" />
     <br>
     Config Proxy
 </h1>
@@ -11,7 +11,7 @@
   Teste
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/react-native-design-code.svg">
+  <img alt="Linnguagens utilizadas" src="https://img.shields.io/github/languages/top/lukemorales/react-native-design-code.svg">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukemorales/react-native-design-code.svg">
 
