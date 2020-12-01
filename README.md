@@ -36,16 +36,16 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 # Adicione na class.java principal fora de metodos.
 # 
 # public ConfigProxy configProxy;
-```
-
-```bash
+# 
+# 
+# 
 # Sempre nna inicialização do plugin tem que rodar este sistema primeiro ele carrega/constroi os arquivos.
 # 
 # configProxy = new ConfigProxy("config.yml", this, "Descricão ,_,!");
-```
-
-```bash
-# Asdasd
+# 
+# 
+# 
+# Metodo para salvar no arquivo.
 # 
 # configProxy.save();
 ```
