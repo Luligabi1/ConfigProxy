@@ -37,6 +37,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ```
 
 ## :memo: Licença.
-Este projeto está sob a licença do privada. Veja o [LICENÇa](https://google.com) para mais informações.
+Este projeto está sob a licença do privada. Veja o [LICENÇA](https://google.com) para mais informações.
 
 ---
